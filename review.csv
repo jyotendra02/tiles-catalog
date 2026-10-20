@@ -1,0 +1,45 @@
+pdf,page,tile_id,problem
+SUNGRACIA-04.pdf,37,golden-endless-milton-green-gold,looks identical to golden-endless-milton-aqua-gold (same design in two catalogues?)
+SUNGRACIA-04.pdf,55,colorica-bookmatch-sungracia-04-p55,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,3,marble-endless-sungracia-05-p3,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,5,marble-endless-sungracia-05-p5,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,7,marble-endless-sungracia-05-p7,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,9,marble-endless-sungracia-05-p9,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,15,marble-endless-sungracia-05-p15,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,23,marble-endless-humbarg-beige,"header says 3 faces, found 4 unique"
+SUNGRACIA-05.pdf,56,marble-random-himalya-white,"header says 3 faces, found 4 unique"
+SUNGRACIA-05.pdf,66,marble-random-pallas-bianco,"header says 1 faces, found 4 unique"
+SUNGRACIA-05.pdf,70,marble-random-sungracia-05-p70,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,97,3d-sungracia-05-p97,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,99,3d-sungracia-05-p99,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,101,3d-sungracia-05-p101,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,103,3d-sungracia-05-p103,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,105,3d-sungracia-05-p105,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,107,3d-sungracia-05-p107,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,109,3d-sungracia-05-p109,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-05.pdf,111,3d-sungracia-05-p111,title OCR failed or unreadable - fill name in tiles.json
+SUNGRACIA-06.pdf,3,statuario-endless-aroit,"header says 2 faces, found 4 unique"
+SUNGRACIA-06.pdf,22,statuario-random-titanium-white,"header says 1 faces, found 4 unique"
+WL_-02.pdf,36,marble-endless-juvenian-green,looks identical to marble-endless-juvenian-blue (same design in two catalogues?)
+WL_-02.pdf,44,marble-endless-parkano-onyx,"header says 5 faces, found 3 unique"
+WL_-02.pdf,48,marble-endless-tropicana-natural,looks identical to marble-endless-ruset-crema (same design in two catalogues?)
+WL_-02.pdf,51,marble-random-wl-02-p51,"header says 35 faces, found 3 unique; title OCR failed or unreadable - fill name in tiles.json"
+WL_-02.pdf,54,marble-random-wl-02-p54,"header says 35 faces, found 4 unique; title OCR failed or unreadable - fill name in tiles.json"
+WL_-02.pdf,66,marble-random-ding-silex-silver,looks identical to marble-endless-cnt-metrix-nero (same design in two catalogues?)
+WL_-02.pdf,67,marble-random-dyna-azul,"header says 3 faces, found 4 unique"
+WL_-02.pdf,69,marble-random-emerald-ivory-2,"header says 3 faces, found 4 unique"
+WL_-02.pdf,89,marble-random-onice-chiava,"header says 35 faces, found 4 unique"
+WL_-02.pdf,103,marble-random-esprada-brown,"header says 5 faces, found 4 unique"
+WL_-02.pdf,105,marble-random-turkish-grey,"header says 5 faces, found 4 unique"
+WL_-02.pdf,111,marble-random-wl-02-p111,title OCR failed or unreadable - fill name in tiles.json
+WL_-03.pdf,3,statuario-endless-wl-03-p3,title OCR failed or unreadable - fill name in tiles.json
+WL_-03.pdf,15,statuario-endless-hitera-staturio,"header says 2 faces, found 3 unique"
+WL_-03.pdf,19,statuario-endless-moon-white,"header says 3 faces, found 4 unique"
+WL_-03.pdf,33,statuario-random-purl-white,"header says 2 faces, found 4 unique"
+WL_-03.pdf,58,taj-gold-o4,looks identical to taj-gold-o3 (same design in two catalogues?)
+WL_-03.pdf,60,bookmatch-wl-03-p60,"header says 1 faces, found 2 unique; title OCR failed or unreadable - fill name in tiles.json"
+WL_-03.pdf,62,bookmatch-wl-03-p62,"header says 1 faces, found 2 unique; title OCR failed or unreadable - fill name in tiles.json"
+WL_-03.pdf,64,bookmatch-milan-onyx,"header says 1 faces, found 2 unique"
+WL_Colorica_Collection_2024.pdf,43,gress-brown,"header says 4 faces, found 3 unique"
+WL_Endless Glossy_Marble_Collection_2024.pdf,1,a-wl-endless-glossy-marble-collection-2024-p1,no faces page and no stored tile picture: only a landscape preview exists; title OCR failed or unreadable - fill name in tiles.json
+WL_Endless Glossy_Marble_Collection_2024.pdf,195,volcanic-breccia-grey,looks identical to volcanic-breccia-blue (same design in two catalogues?)
